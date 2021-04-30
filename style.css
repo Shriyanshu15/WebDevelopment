@@ -1,0 +1,100 @@
+*{
+    font-family: Montserrat;
+}
+
+ul{
+    list-style: none;
+}
+
+header{
+    background-color: rgb(3, 7, 248);
+    padding: 5px;
+}
+
+li{
+    display: inline;
+    margin: 50px;
+    align-content: center;
+}
+
+li a{
+    font-size: x-large;
+    text-decoration: none;
+    color: whitesmoke;
+}
+li a:hover{
+    color: purple;
+    text-decoration:none;
+}
+
+h1{
+    font-size: 5.2rem;
+    color:rgb(40, 27, 218);
+}
+
+.center{
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.Jumbotitle{
+    background-image: url("resume background.png");
+}
+
+.Jumbobutton{
+    padding: 1rem 5.6rem 1rem;
+    font-size: 2.8rem;
+    border-radius: 3.2rem;
+    text-decoration: none;
+    border-color: black;
+    background: rgb(78, 14, 255);
+    color: white;
+}
+.Jumbobutton:hover{
+    font-size: 2.8rem;
+    text-decoration: none;
+    border-color: black;
+    background: white;
+    color:rgb(78, 14, 255);
+}
+
+h2{
+    font-size: 2.6rem;
+    text-align: center;
+    color: rgb(59, 41, 224);
+}
+
+hr{
+    border: 4px inset rgb(225, 1, 255);
+    width: 70%;
+    margin: auto;
+}
+
+p{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.resource{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+footer{
+    background-color: lightskyblue;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+p .fmenu{
+    text-decoration: none;
+    text-align: center;
+}
